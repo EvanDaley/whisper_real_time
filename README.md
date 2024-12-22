@@ -52,8 +52,13 @@ The code in this repository is public domain.
 
 ## Usage
 
+After setting up the environment and packages, you can start the app with
 ```
-source env/bin/activate
-pyenv local 3.11.5
 python transcribe_demo.py
+```
+
+Each time you come back, you'll want to make sure you have the venv loaded:
+```
+pyenv local 3.11.5
+source env/bin/activate
 ```
