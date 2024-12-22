@@ -6,7 +6,7 @@ This is a demo of real time speech to text with OpenAI's Whisper model. It works
 
 ## Installation
 
-#### Environment Setup
+### Environment Setup
 
 Some of the packages aren't compatible with the newest version of python.
 
@@ -31,7 +31,7 @@ python -m venv env
 source env/bin/activate
 ```
 
-#### Package Installation
+### Package Installation
 
 Then, to install dependencies simply run
 ```
